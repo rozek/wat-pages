@@ -1,10 +1,8 @@
-# de.rozek.TitleView #
+# de.rozek.PageSwitcher #
 
-displays the given "Value" as a single line of text using a bold font which is larger than normal
+a simple control that may be used to navigate between the pages of an applet
 
-## configurable Properties ##
-
-* `Value` - the text to be shown
+![PageSwitcher Screenshot](./de.rozek.PageSwitcher)
 
 ## License ##
 
